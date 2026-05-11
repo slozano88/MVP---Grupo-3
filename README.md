@@ -5,9 +5,6 @@
 ## Introducción
 
 Este proyecto nace con el objetivo de desarrollar una herramienta de simulación económica simple, visual e interactiva que permita comprender cómo distintos eventos globales pueden impactar sobre variables económicas relevantes.
-
-Nuestro MVP busca mantener el concepto principal de la idea original, pero con un alcance más acotado y realista para su desarrollo inicial.
-
 La plataforma permitirá al usuario seleccionar eventos predefinidos como crisis económicas, conflictos internacionales o cambios políticos y visualizar cómo estos afectan indicadores económicos globales mediante simulaciones simples y comprensibles.
 
 ---
@@ -37,7 +34,7 @@ El usuario podrá:
 Los resultados se representarán a través de:
 
 - Índices bursátiles
-- Commodities (petróleo, oro, etc.)
+- Commodities
 - Tipo de cambio
 - Indicadores simplificados
 
